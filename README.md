@@ -64,7 +64,7 @@ devoir1/
 - Livres de départ : titres réels, aucune image ni bibliothèque externe.
 
 ## Captures
-1. Validation W3C : `captures/0-validation-w3c.png` _(à ajouter)_
+1. Validation W3C : `captures/0-validation-w3c.png` 
 2. Écran large : `captures/1-large-1440x900.png`
 3. Tablette : `captures/2-tablette-768x1024.png`
 4. Téléphone : `captures/3-telephone-390x844.png`
