@@ -16,7 +16,7 @@ Frontend d'un catalogue de bibliothèque en HTML, CSS et JavaScript purs (sans f
 7. **Réinitialiser les données** : remet les 10 livres de départ.
 Les modifications sont conservées dans le `localStorage`.
 
-## Arborescence
+# Arborescence
 ```
 devoir1/
   index.html
