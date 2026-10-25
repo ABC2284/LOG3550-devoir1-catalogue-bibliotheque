@@ -1,7 +1,7 @@
 # LOG3550 – Devoir 1 : Catalogue de bibliothèque (frontend)
 
-**Auteur :** Julmice Carl Verlet · ISTEAH · LOG3550 Développement web
-**Dépôt Git :https://github.com/ABC2284/LOG3550-devoir1-catalogue-bibliotheque
+Auteur :*Julmice Carl Verlet* · ISTEAH · LOG3550 Développement web
+Dépôt Git :https://github.com/ABC2284/LOG3550-devoir1-catalogue-bibliotheque
 
 ## Description
 Frontend d'un catalogue de bibliothèque en HTML, CSS et JavaScript purs (sans framework ni bibliothèque). On peut consulter, rechercher, filtrer, trier, ajouter et supprimer des livres. Il sera relié à une API FastAPI dans le devoir 2.
